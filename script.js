@@ -24,7 +24,7 @@ const perguntas = [
         enunciado: "Você me ama?",
         alternativas: [
             {
-                texto: "Muito",
+                texto: "Sim",
                 afirmacao: "Você me perguntou uma vez o por que eu te amava. Na hora eu não consegui dar uma resposta certa, então decidi colocar aqui. Eu te amo por tantos motivos, que vão de sua incrível personalidade, até seu lindo sorriso. Mas o motivo do qual você me fez me apaixonar, foi seu carinho, suas piadas e sua habilidade nata de me deixar envergonhado ou bobo sem se esforçar. Você é a pessoa da qual eu pretendo passar minha vida e a pessoa que abriu meus olhos. A pessoa que me mostrou um novo caminho e um novo motivo pra seguir em frente. Eu te amo muito, meu amor, e sempre vou amar."
             },
             {
