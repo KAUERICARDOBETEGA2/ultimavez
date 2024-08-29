@@ -21,15 +21,15 @@ setInterval(createHeart, 300);
 
 const perguntas = [
     {
-        enunciado: "Você me ama?",
+        enunciado: "Quer Ler??",
         alternativas: [
             {
                 texto: "Sim",
-                afirmacao: "Você me perguntou uma vez o por que eu te amava. Na hora eu não consegui dar uma resposta certa, então decidi colocar aqui. Eu te amo por tantos motivos, que vão de sua incrível personalidade, até seu lindo sorriso. Mas o motivo do qual você me fez me apaixonar, foi seu carinho, suas piadas e sua habilidade nata de me deixar envergonhado ou bobo sem se esforçar. Você é a pessoa da qual eu pretendo passar minha vida e a pessoa que abriu meus olhos. A pessoa que me mostrou um novo caminho e um novo motivo pra seguir em frente. Eu te amo muito, meu amor, e sempre vou amar."
+                afirmacao: " Olha, eu nunca fui muito bom com essas coisas sinceramente. Eu sempre te admirei muito. Você é uma pessoa incrível além de muito divertida, e te importunar diariamente é mais um modo de achar algo pra puxar papo do que te irritar(mesmo sendo estranhamente divertido). Nunca fui muito bom em conversar, então na maioria das vezes eu sempre fico meio quieto só olhando as outras pessoas conversando. Enfim, fiz esse site na verdade não como um presente de aniversário (o de verdade vou entregar semana que vem), e mais sim como uma declaração. Eu gosto muito de você. Não apenas como um amigo prócimo que eu gosto de irritar, e sim alguem que eu iria querer pra vida. Não precisa responder a isso, até porque se respondesse eu ia demorar muito pra conseguir olhar no seu rosto denovo. Eu tenho certeza disso porque eu gosto de você faz muito tempo, desde aquele tempo que eu usava meu cabelo no rosto. O ponto principal disso tudo é: Feliz aniversário atrasado. Gosto muito de você e espero que você nao fique esquisito depois dessa vergonhera que eu fiz."
             },
             {
                 texto: "Não.",
-                afirmacao: "Mor?"
+                afirmacao: "Seubosta"
             }
         ]
     },
