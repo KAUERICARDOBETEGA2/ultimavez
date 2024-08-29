@@ -25,7 +25,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim",
-                afirmacao: " Olha, eu nunca fui muito bom com essas coisas sinceramente. Eu sempre te admirei muito. Você é uma pessoa incrível além de muito divertida, e te importunar diariamente é mais um modo de achar algo pra puxar papo do que te irritar(mesmo sendo estranhamente divertido). Nunca fui muito bom em conversar, então na maioria das vezes eu sempre fico meio quieto só olhando as outras pessoas conversando. Enfim, fiz esse site na verdade não como um presente de aniversário (o de verdade vou entregar semana que vem), e mais sim como uma declaração. Eu gosto muito de você. Não apenas como um amigo prócimo que eu gosto de irritar, e sim alguem que eu iria querer pra vida. Não precisa responder a isso, até porque se respondesse eu ia demorar muito pra conseguir olhar no seu rosto denovo. Eu tenho certeza disso porque eu gosto de você faz muito tempo, desde aquele tempo que eu usava meu cabelo no rosto. O ponto principal disso tudo é: Feliz aniversário atrasado. Gosto muito de você e espero que você nao fique esquisito depois dessa vergonhera que eu fiz."
+                afirmacao: " Olha, eu nunca fui muito bom com essas coisas sinceramente. Eu sempre te admirei muito. Você é uma pessoa incrível além de muito divertida, e te importunar diariamente é mais um modo de achar algo pra puxar papo do que te irritar(mesmo sendo estranhamente divertido). Nunca fui muito bom em conversar, então na maioria das vezes eu sempre fico meio quieto só olhando as outras pessoas conversando. Enfim, fiz esse site na verdade não como um presente de aniversário (o de verdade vou entregar semana que vem), e mais sim como uma declaração. Eu gosto muito de você. Não apenas como um amigo prócimo que eu gosto de irritar, e sim alguem que eu iria querer pra vida. Não precisa responder a isso, até porque se respondesse eu ia demorar muito pra conseguir olhar no seu rosto denovo. Eu tenho certeza disso porque eu gosto de você faz muito tempo, desde aquele tempo que eu usava meu cabelo no rosto. O ponto principal disso tudo é: Feliz aniversário atrasado. Gosto muito de você e espero que você não fique esquisito depois dessa vergonhera que eu fiz :(."
             },
             {
                 texto: "Não.",
@@ -75,7 +75,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em um dia de inverno agitado, onde meu coração estava dividido... você me apareceu.";
+    caixaPerguntas.textContent = "Feliz aniversário!";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
